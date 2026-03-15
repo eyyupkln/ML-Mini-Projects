@@ -49,8 +49,4 @@ Instead of keeping my code files scattered, I created this master repository to:
 ## 📫 Let's Connect!
 I am actively learning, coding, and building. If you'd like to discuss AI, collaborate on a project, or review my code, feel free to reach out!
 
-<<<<<<< HEAD
 * **LinkedIn:** [https://www.linkedin.com/in/eyyupklnn]
-=======
-* **LinkedIn:** [https://www.linkedin.com/in/eyyupklnn]
->>>>>>> e897f57af1d46f654e9fb703142ef5f4d88816f1
