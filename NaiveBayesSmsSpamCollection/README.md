@@ -5,7 +5,7 @@ Bu proje, makine öğrenmesi ve Doğal Dil İşleme (NLP) temellerini kullanarak
 
 ## 🛠️ Kullanılan Teknolojiler ve Modeller
 * **Veri İşleme:** Pandas, NumPy
-* **Doğal Dil İşleme (NLP):** `CountVectorizer` (Metinleri kelime frekanslarına dönüştürme)
+* **Doğal Dil İşleme (NLP):** `CountVectorizer` (Metinleri kelime frekanslarına dönüştürme) and TfidfVectorizer(istediğinde kullanılabilir.)
 * **Makine Öğrenmesi Modeli:** `MultinomialNB` (Çok Terimli Naive Bayes)
 * **İş Akışı (Workflow):** `Pipeline` (Veri sızıntısını önlemek ve kod düzenini sağlamak için)
 
@@ -27,7 +27,7 @@ The goal of this project is to apply foundational Natural Language Processing (N
 
 ## 🛠️ Tech Stack & Libraries
 * **Data Manipulation:** Pandas, NumPy
-* **NLP Technique:** `CountVectorizer` (Bag of Words / Tokenization)
+* **NLP Technique:** `CountVectorizer` (Bag of Words / Tokenization) and TfidfVectorizer(it can be use)
 * **Machine Learning Model:** `MultinomialNB` (Multinomial Naive Bayes)
 * **Architecture:** `Pipeline` (For clean code and sequential data transformation)
 
